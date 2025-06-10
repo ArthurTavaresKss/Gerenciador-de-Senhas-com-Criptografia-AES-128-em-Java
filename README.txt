@@ -25,10 +25,9 @@ Não tenho certeza se este software funciona no Linux ou macOS, foi testado apen
 
 
 Como instalar:
-Primeiramente, exclua o atalho chamado "Criptography", aquele com o ícone branco.
-Ele precisa ser configurado novamente, e é mais fácil se for feito do zero.
 
-Após isso, clique com o botão direito na área de arquivos, vá em "Novo", e depois em "Atalho".
+
+Primeiramente, clique com o botão direito na área de arquivos na pasta, vá em "Novo", e depois em "Atalho".
 Se aparecer uma janela com o título "Criar Atalho", você está no caminho certo.
 
 No campo "Digite o local do arquivo", clique no botão "Procurar" e navegue até a pasta onde está localizada a pasta do Project Criptography.
@@ -79,10 +78,8 @@ I am not sure if this works on Linux or macOS. It has only been tested on Window
 
 
 How to Install:
-First, delete the shortcut called "Criptography", the one with the white icon.
-It needs to be configured again, and it’s easier to do it from scratch.
 
-Then, right-click anywhere in the file explorer window, go to "New", and click "Shortcut".
+First, right-click anywhere in the file explorer window, go to "New", and click "Shortcut".
 If a window titled "Create Shortcut" appears, you are on the right track.
 
 In the field "Type the location of the item", click the "Browse" button and navigate to the folder where the Project Criptography folder is located.
